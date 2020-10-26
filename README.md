@@ -1,5 +1,5 @@
 # meu-elk-compose 
-Minha stack ELK caseira
+Minha stack ELK caseira.
 
 ## How to use
 ```
