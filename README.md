@@ -1,7 +1,7 @@
-#meu-elk-compose 
+# meu-elk-compose 
 Minha stack ELK caseira
 
-##How to use
+## How to use
 ```
 docker-compose up -d 
 ```
